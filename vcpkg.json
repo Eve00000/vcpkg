@@ -31,6 +31,7 @@
     }
   },
   "dependencies": [
+    "7zip",
     "ableton-link",
     "benchmark",
     "chromaprint",
